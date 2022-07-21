@@ -8,3 +8,6 @@ opachki
 *1
 *2
 *3
+
+
+tot kommit 
